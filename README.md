@@ -4,7 +4,7 @@ This project is an interactive web application for visualizing and learning abou
 
 ## Demo
 
-![Graph Algorithm Visualization Demo](assets/graph-algorithm-viz/assets/graphviz-ezgif.com-video-to-gif-converter.gif)
+![Graph Algorithm Visualization Demo](assets/graphviz-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
