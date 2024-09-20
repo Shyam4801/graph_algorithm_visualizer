@@ -2,12 +2,15 @@
 
 This project is an interactive web application for visualizing and learning about graph algorithms. It allows users to explore different graph algorithms, such as Breadth-First Search (BFS), Depth-First Search (DFS), and Dijkstra's Algorithm, on randomly generated graphs.
 
+## Demo
+
+![Graph Algorithm Visualization Demo](graph-algorithm-viz/assets/graphviz-ezgif.com-video-to-gif-converter.gif)
+
 ## Features
 
 - Interactive graph visualization
 - Multiple algorithm implementations
 - Step-by-step algorithm execution
-- Algorithm progress tracking
 
 ## Technologies Used
 
@@ -57,6 +60,3 @@ This project is an interactive web application for visualizing and learning abou
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
